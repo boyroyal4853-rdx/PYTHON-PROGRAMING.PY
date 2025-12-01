@@ -3,7 +3,7 @@
 # Group of characters./ group of words => String 
 
 # -> A string is a sequence of characters enclosed within single quotes (' '), double quotes (" "), or triple quotes (''' ''' or """ """).
-
+# Examples of strings:
 
 # String methods: -
 

@@ -6,7 +6,7 @@
 #  List => it can store multiple types of data.
 #  Example: integer, string, float, boolean, list
 
-
+#
 # List indexing:
 
 

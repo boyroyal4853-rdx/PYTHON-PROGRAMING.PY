@@ -1,5 +1,5 @@
 # assignment operators => it is used to assign the value to a variable.
-#example: = .+=,-=,*=,/=,//=.,%=,**=.
+# example: = .+=,-=,*=,/=,//=.,%=,**=.
 
 x = 10
 y = 10

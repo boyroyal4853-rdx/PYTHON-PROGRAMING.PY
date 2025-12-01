@@ -1,6 +1,6 @@
 # Conditional statement :-
 # => A conditional statement is used to perform different actions based on whether a certain condition is true or false. It typically involves.
-
+#
 # Two conditions :- if , else
 
 if "Rohit reached the class on time":

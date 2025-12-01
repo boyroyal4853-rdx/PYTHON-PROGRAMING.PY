@@ -11,7 +11,7 @@ print(my_tuple)
 for i in my_tuple:
     print(i)
 
-# # Tuple MEthods:-
+## # Tuple MEthods:-
 # # 1. count()  => it return the number of occurrence of any element. 
 
 my_tuple = (111, 111, 111, 22, 7879)

@@ -9,7 +9,7 @@ my_list = [ 111, 222, 444,44, 55, 66]
 #   111,  222,  444,  44,  55, 66
 #   -6    -5    -4    -3   -2  -1
 
-
+#
 # Slicing :-
 # Types: two 
 # (a) Two parameter slicing (b) three parameter

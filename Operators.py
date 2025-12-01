@@ -8,7 +8,7 @@
 
 # 1 Arithimetic operator
 #[+,-,*,/,//,%,**]
-
+# Explanation of Arithmetic operators:
 # + =>addition
 # - => subtraction
 # * => multiplication

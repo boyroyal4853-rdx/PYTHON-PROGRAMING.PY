@@ -128,6 +128,6 @@ print(my_listt)
 # 📌 Difference:
 #  List stores only values
 #  Dictionary stores key + value together
-
+#
 
 

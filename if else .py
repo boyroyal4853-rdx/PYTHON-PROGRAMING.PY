@@ -33,7 +33,7 @@ if x>y :
 else:
     print("y is greater than x")
 
-
+#
     # 🏫 Program 1: Chek Voting Eligibility Using Nested
 age = int(input("hii, Shivam! plesae enter your age"))
 

@@ -5,7 +5,7 @@
 # => it can not containe duplicate elements .
 # => it can store only unique elements .
 # => it is mutable .
-
+# => it is defined by curly braces { }.
 
 
 listt = [11, 22, 33, 44, 55]

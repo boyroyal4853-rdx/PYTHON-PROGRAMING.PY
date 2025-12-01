@@ -25,3 +25,4 @@ for i in range(50):
     t.right(3)
 
 turtle.done()
+# This code uses the turtle graphics library to draw a colorful pattern of overlapping hearts.

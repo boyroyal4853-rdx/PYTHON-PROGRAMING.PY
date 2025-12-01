@@ -44,5 +44,5 @@ print (_character)
 _boolean = 00,1,10,11,100,101,110,111
 print (_boolean)
 
-
+#
 
