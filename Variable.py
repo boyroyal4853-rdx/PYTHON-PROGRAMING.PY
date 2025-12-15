@@ -39,6 +39,7 @@ _flot = 10.5,15.7,3.99
 print (_flot)
 
 _character ="Radhe-krishna"
+
 print (_character)
 
 _boolean = 00,1,10,11,100,101,110,111
