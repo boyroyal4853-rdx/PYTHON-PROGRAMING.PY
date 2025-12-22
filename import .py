@@ -2,11 +2,12 @@ import turtle
 
 t = turtle.Turtle()
 t.speed(50)
-turtle.bgcolor("white")
+turtle.bgcolor("green")
 
-colors = ["red", "blue", "green", "black", "orange"]
+colors = ["yellow", "pink", "dark", "coffee", "white"]
 
-t.width(1)
+t.width(colors)
+
 
 for i in range(50):
     t.color(colors[i % len(colors)])
