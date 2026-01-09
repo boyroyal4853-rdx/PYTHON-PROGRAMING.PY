@@ -37,7 +37,7 @@ else:
     # 🏫 Program 1: Chek Voting Eligibility Using Nested
 age = int(input("hii, Shivam! plesae enter your age"))
 
-resident = "Bihar"
+resident  = "Bihar"
 
 if age > 18 :
 

@@ -37,7 +37,7 @@
 
 
 
-#  MULTIPLEINHEIRTENCE:
+#  MULTIPLE INHEIRTENCE:
 
 # class father:
 #        bussiness = " UNIQUE FASHION HUB"

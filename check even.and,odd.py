@@ -4,12 +4,11 @@ def check_even_odd(number):
     else:
         return f"{number} is Odd"
 
-# Example
-# print(check_even_odd(10))
-# print(check_even_odd(7))
+#  Example
+print(check_even_odd(10))
+print(check_even_odd(7))
 
-
-check_even_odd = lambda x: "Even" if x % 2 == 0 else "Odd"
+# check_even_odd = lambda x = 89: "Even" if x % 2 == 0 else "Odd"
 
 # Example
 print(check_even_odd(12))  # Even

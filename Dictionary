@@ -79,12 +79,12 @@ print(diwakar_dictionary.get("name"))  ## accessing value using key in the dicti
 
 
 
-name = "Suhani"
-print(name)
+# name = "Suhani"
+# print(name)
 
-name[2] = "z"  ## strings are immutable in python
+# name[2] = "z"  ## strings are immutable in python
 
-print(name)
+# print(name)
 
 
 # update() => it is used to update value of specific key in the dictionary .
