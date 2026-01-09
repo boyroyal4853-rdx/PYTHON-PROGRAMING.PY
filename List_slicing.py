@@ -38,7 +38,7 @@ print("without using starting point :", my_list[ :4])
 
 # 0   1    2   3   4   5   6   7   8    9
 # [11 22 33 44 55 66 77 88 99 100]  
-my_new_list [0:9:2]
+#  my_new_list [0:9:2]
 
 # starting point => 0
 # ending point => 9  (excluded)
@@ -59,7 +59,7 @@ my_new_list [0:9:2]
 
 
 
-print(my_new_list[ : : -1])
+print("my_new_list"[ : : -1])
 
 # startin point => 0
 # ending point => last index (not excluded)
