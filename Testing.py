@@ -1,5 +1,6 @@
-for i in range(5):
-    print("diwakar" )
+i = 1
+while i <= 7:
+    print("ram ram")
+i = i+1
 
-    # 
     

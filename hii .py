@@ -1,4 +1,4 @@
-print("hello world")
+print("ram worold")
 
 
 x = int(input("enter your number"))

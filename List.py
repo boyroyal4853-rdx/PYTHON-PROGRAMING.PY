@@ -10,7 +10,8 @@ print("after operation", my_listt)
 my_listt.append(388,77) # dose not add multiple elements
 print("at the last :", my_listt)
 
-#
+
+
 # extend() => it is used to add multiple elements at the end of list .
 
 my_listt = [11,22,33,44]

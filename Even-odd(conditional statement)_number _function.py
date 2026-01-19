@@ -18,9 +18,6 @@
 
 # input()  => it is used to take input from user .
 
-
-
-
 # task: write a program to check givem number is even or odd using function .
 
 # def check_even_odd(num):

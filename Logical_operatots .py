@@ -30,6 +30,3 @@ False and True = False
 
 
 
-
-
-
