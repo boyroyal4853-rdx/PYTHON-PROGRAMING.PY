@@ -74,7 +74,7 @@ print(my_new_variable)
 print(type(my_new_variable))
 
 
-O
+
 
 
 

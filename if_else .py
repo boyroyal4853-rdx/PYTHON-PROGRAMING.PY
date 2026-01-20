@@ -26,12 +26,12 @@ else:
     print("you are not eligible to vote in indian elections")
 
 x=5
-y=2      
+y=9      
 
 if x>y :
-    print("x is greater than y")
+    print("x is greater than y" ,x)
 else:
-    print("y is greater than x")
+    print("y is greater than x",y)
 
 #
     # 🏫 Program 1: Chek Voting Eligibility Using Nested

@@ -13,3 +13,6 @@ print(check_even_odd(7))
 # Example
 print(check_even_odd(12))  # Even
 print(check_even_odd(9))   # Odd
+
+print(check_even_odd(10))  
+print(check_even_odd(8))   
