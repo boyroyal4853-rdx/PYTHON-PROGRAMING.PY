@@ -1,0 +1,10 @@
+print("hello world")
+print("welcome to python programming")
+print("this is indian")
+print("Ram-Sita")
+print("python is esay to learn")
+print("i am learnig the python code")
+print("good for all")
+print("see you next time")
+print("happy coding")
+# => it is used to access all items (key-value pairs) in the dictionary .
